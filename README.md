@@ -7,3 +7,6 @@
 - Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
 
 - Implement sending emails through a form on the website
+
+# LIVE https://bariselvanoglu.com
+ 
